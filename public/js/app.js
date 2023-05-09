@@ -1,7 +1,3 @@
-console.log("Client side script loaded");
-
-
-
 const weahterForm = document.querySelector("form");
 const search = document.querySelector("input");
 
